@@ -1,4 +1,13 @@
-### Hi there 👋
+### Oi - Hi - Hola  👋
+
+- 🎓 Graduated in Mathematics from Universidade Estadual de Feira de Santana (UEFS) (2022)
+- 💬 Português (Native); English (Basic); Spanish (Intermediate)
+
+## ⚡ Facts about me:
+
+- I love read fanta books and listen pop music
+
+## 📫 How to reach me:
 
 <!--
 **K-Almeida/K-Almeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
