@@ -1,13 +1,14 @@
-### Oi - Hi - Hola  👋
+### Hi 👋
 
 - 🎓 Graduated in Mathematics from Universidade Estadual de Feira de Santana (UEFS) (2022)
 - 💬 Português (Native); English (Basic); Spanish (Intermediate)
+- 😄 Pronouns: She/Her
 
-## ⚡ Facts about me:
+<div align="center">
+  <a href="https://github.com/K-Almeida">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=K-Almeida&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Almeida&layout=compact&langs_count=7&theme=dracula"/>
 
-- I love read fanta books and listen pop music
-
-## 📫 How to reach me:
 
 <!--
 **K-Almeida/K-Almeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
